@@ -1,0 +1,17 @@
+# Ignore configuraciones de PhpStorm
+.idea/
+
+# Ignore la carpeta de dependencias de Node
+node_modules/
+
+# Ignore archivos de construcción
+dist/
+
+# Ignore directorios de caché y archivos temporales 
+*.log
+.cache/
+.tmp/
+
+# Ignore archivos generados durante la construcción de la app
+*.js.map
+*.css.map
